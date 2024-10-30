@@ -1,0 +1,81 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: iPROM integration for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-09 08:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: wc-iprom"
+
+#: wc-iprom.php:452
+msgid "Can not create feed folder:"
+msgstr ""
+
+#: wc-iprom.php:504
+msgid "Copied!"
+msgstr ""
+
+#: wc-iprom.php:503
+msgid "Copy to clipboard"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://iprom.eu/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrate iPROM cloud marketing codes into WooCommerce e-shop"
+msgstr ""
+
+#. Author of the plugin
+msgid "iPROM"
+msgstr ""
+
+#. Name of the plugin
+msgid "iPROM integration for WooCommerce"
+msgstr ""
+
+#: wc-iprom.php:489
+msgid "iPROM site path"
+msgstr ""
+
+#: wc-iprom.php:78 wc-iprom.php:85
+msgid "Not allowed!"
+msgstr ""
+
+#: wc-iprom.php:494
+msgid "Save Changes"
+msgstr ""
+
+#: wc-iprom.php:477
+msgid "Site path is not valid. Please enter a valid site path."
+msgstr ""
+
+#: wc-iprom.php:475
+msgid "Site path settings were saved."
+msgstr ""
+
+#: wc-iprom.php:189
+msgid "WooCommerce iPROM integration"
+msgstr ""
+
+#. %s: WC min version
+#: wc-iprom.php:177
+#, php-format
+msgid ""
+"WooCommerce iPROM integration requires at least WooCommerce <strong>"
+"%s</strong>."
+msgstr ""
+
+#: wc-iprom.php:188 wc-iprom.php:486
+msgid "WooCommerce iPROM integration settings"
+msgstr ""

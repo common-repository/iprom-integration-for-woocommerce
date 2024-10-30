@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iPROM integration for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-09 08:37+0000\n"
+"PO-Revision-Date: 2021-11-09 08:55+0000\n"
+"Last-Translator: Jaka Certanc\n"
+"Language-Team: Slovenian\n"
+"Language: sl_SI\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : "
+"n%100==3||n%100==4 ? 2 : 3;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: woocommerce-iprom"
+
+#: wc-iprom.php:452
+msgid "Can not create feed folder:"
+msgstr "Ni mogoče ustvariti mape:"
+
+#: wc-iprom.php:504
+msgid "Copied!"
+msgstr "Kopirano!"
+
+#: wc-iprom.php:503
+msgid "Copy to clipboard"
+msgstr "Kopiraj v odložišče"
+
+#. Author URI of the plugin
+msgid "https://iprom.eu/"
+msgstr "https://iprom.si/"
+
+#. Description of the plugin
+msgid "Integrate iPROM cloud marketing codes into WooCommerce e-shop"
+msgstr "Integracija iPROM merilnih kod v Wordpress in WooCommerce e-trgovino."
+
+#. Author of the plugin
+msgid "iPROM"
+msgstr "iPROM"
+
+#. Name of the plugin
+msgid "iPROM integration for WooCommerce"
+msgstr "iPROM integracija za WooCommerce"
+
+#: wc-iprom.php:489
+msgid "iPROM site path"
+msgstr "Pot (site path)"
+
+#: wc-iprom.php:78 wc-iprom.php:85
+msgid "Not allowed!"
+msgstr "Ni dovoljeno!"
+
+#: wc-iprom.php:494
+msgid "Save Changes"
+msgstr "Shrani spremembe"
+
+#: wc-iprom.php:477
+msgid "Site path is not valid. Please enter a valid site path."
+msgstr "Pot ni veljavna. Prosimo vpišite veljavno pot (site path)."
+
+#: wc-iprom.php:475
+msgid "Site path settings were saved."
+msgstr "Nastavitve poti so shranjene."
+
+#: wc-iprom.php:189
+msgid "WooCommerce iPROM integration"
+msgstr "WooCommerce iPROM integracija"
+
+#. %s: WC min version
+#: wc-iprom.php:177
+#, php-format
+msgid ""
+"WooCommerce iPROM integration requires at least WooCommerce <strong>"
+"%s</strong>."
+msgstr ""
+"WooCommerce iPROM za svoje delovanje potrebuje vsaj WooCommerce <strong>"
+"%s</strong>."
+
+#: wc-iprom.php:188 wc-iprom.php:486
+msgid "WooCommerce iPROM integration settings"
+msgstr "Nastavitve WooCommerce iPROM integracije"
